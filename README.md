@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/99211c23-e61d-4763-bb6d-4c94535d22d2" width="360px"/>
 
-Sobre mim
+ 👨 Sobre mim
 - 💻 Apaixonado por tecnologia, automação e desenvolvimento.
 - 🌟 Experiência em Python, no-code, C++, integração de APIs, CSS, HTML .
 - 📚 Estudante de ADS
@@ -13,6 +13,7 @@ Sobre mim
 - Aprimorar APIs
 
 ## 🛠 Ferramentas utilizadas
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px" width="30px" />
