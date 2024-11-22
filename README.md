@@ -1,5 +1,7 @@
 ## 👋 Olá, eu sou Lucas Claudino!
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/211714560-d889e973-e44e-45bb-a4f1-6901c269837b.svg" width="360px"/>
+
 Sobre mim
 - 💻 Apaixonado por tecnologia, automação e desenvolvimento.
 - 🌟 Experiência em Python, no-code, C++, integração de APIs, CSS, HTML .
@@ -18,6 +20,7 @@ Sobre mim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30px" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30px" width="30px" />
 </div>
+
 <br >
 <br >
 <div>
